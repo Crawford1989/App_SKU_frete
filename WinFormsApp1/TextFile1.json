@@ -1,0 +1,11 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": {
+      "label": "xxx",
+      "host": "xxx",
+      "user": "xxx",
+      "port": 5433,
+      "ssl": false,
+      "database": "xxx",
+      "password": "xxx"
+    }
